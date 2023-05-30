@@ -25,6 +25,7 @@ import (
 // commit 2
 
 // fix/staging-1
+// commit 1
 
 type Configuration struct {
 	EncryptionKey string
