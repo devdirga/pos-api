@@ -20,6 +20,9 @@ import (
 // feature/dev-staging1
 // commit1
 
+// feature/two
+// commit 1
+
 type Configuration struct {
 	EncryptionKey string
 	DbHost        string
