@@ -24,6 +24,8 @@ import (
 // commit 1
 // commit 2
 
+// fix/staging-1
+
 type Configuration struct {
 	EncryptionKey string
 	DbHost        string
