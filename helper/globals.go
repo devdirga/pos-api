@@ -13,6 +13,9 @@ import (
 	"github.com/jinzhu/gorm"
 )
 
+// branch staging
+// commit 1
+
 type Configuration struct {
 	EncryptionKey string
 	DbHost        string
