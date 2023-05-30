@@ -13,7 +13,12 @@ import (
 	"github.com/jinzhu/gorm"
 )
 
-// development branch
+// branch staging
+// commit 1
+// commit 2
+
+// feature/dev-staging1
+// commit1
 
 type Configuration struct {
 	EncryptionKey string
