@@ -22,6 +22,10 @@ import (
 
 // feature/two
 // commit 1
+// commit 2
+
+// fix/staging-1
+// commit 1
 
 type Configuration struct {
 	EncryptionKey string
