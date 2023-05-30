@@ -64,7 +64,7 @@ func init() {
 		EncryptionKey: "F61L8L7CUCGN0NK6336I8TFP9Y2ZOS43",
 		DbHost:        "127.0.0.1",
 		DbPort:        "5432",
-		DbName:        "majoo",
+		DbName:        "auth",
 		DbUsername:    "postgres",
 		DbPassword:    "admin123",
 	}
